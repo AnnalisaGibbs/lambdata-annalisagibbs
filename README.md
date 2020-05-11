@@ -7,4 +7,9 @@ TODO
 
 ## Usage
 
-TODO
+```py
+from my_lamdata.my_mod import enlarge
+
+x = 11
+print(enlarge(x))
+```
